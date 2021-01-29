@@ -1,2 +1,0 @@
-# DON'T REPEAT YOURSELF
-A basic principle of software development aimed at reducing repetition of information. The DRY principle is stated as, "Every piece of knowledge or logic must have a single, unambiguous representation within a system."
